@@ -9,3 +9,5 @@ directament per codi donant la data actual. (Veure funció NOW() de mysql) (3p)
 - Doneu l’opció a ordenar les tasques per data (de més recent a més antiga). (1p)
 - Programes l’opció que us permeti modificar tant el títol com el contingut d’una tasca.
 (2p)
+
+### [Exercici MySQL](https://github.com/oscarjuly23/PHP_Basics/blob/main/MySQL/M06_MySQL_%5BOscar_Julian%5D.php)
