@@ -11,7 +11,7 @@ Introduction to PHP [2017]
 ##
 - [Exercices](https://github.com/oscarjuly23/PHP_Basics/tree/main/Exercices)
 - [MySQL](https://github.com/oscarjuly23/PHP_Basics/tree/main/MySQL)
-- [PracticaExamen](https://github.com/oscarjuly23/Java_Basics/tree/main/practica_examen)
-- [Exam](https://github.com/oscarjuly23/Java_Basics/tree/main/exam.php)
+- [PracticaExamen](https://github.com/oscarjuly23/PHP_Basics/tree/main/practica_examen)
+- [Exam](https://github.com/oscarjuly23/PHP_Basics/blob/main/exam.php)
 ##
 Con este repositorio di mis primeros pasos para aprender PHP y desarrollar mis habilidades en la programación web. Viendo como crear sitios web dinámicos, aplicaciones web y explorando el mundo de la programación.
