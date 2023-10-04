@@ -12,4 +12,4 @@ seu format. (1’25p)
 - Si apareix algun error s’han de deixar les dades de qualsevol dels camps del formulari
 precarregades en ell mateix. (1p)
 
-### [ExFormulari]()
+### [ExFormulari](https://github.com/oscarjuly23/PHP_Basics/blob/main/Formularis/Exercici1.php)
