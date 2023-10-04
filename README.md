@@ -11,6 +11,7 @@ Introduction to PHP [2017]
 ##
 - [Exercices](https://github.com/oscarjuly23/PHP_Basics/tree/main/Exercices)
 - [MySQL](https://github.com/oscarjuly23/PHP_Basics/tree/main/MySQL)
+- [Formularis](https://github.com/oscarjuly23/PHP_Basics/tree/main/Formularis)
 - [PracticaExamen](https://github.com/oscarjuly23/PHP_Basics/tree/main/practica_examen)
 - [Exam](https://github.com/oscarjuly23/PHP_Basics/blob/main/exam.php)
 ##
