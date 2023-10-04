@@ -9,8 +9,9 @@ Introduction to PHP [2017]
 - Implementación de Aplicaciones Web: A medida que avanzan los ejercicios, se aprende a cómo utilizar PHP para desarrollar aplicaciones web interactivas y dinámicas. Todo sobre formularios, gestión de sesiones, bases de datos y más.
 - Lenguajes de Guiones del Servidor: PHP es uno de los lenguajes de guiones de servidor más populares, y este repositorio vemos como puedes familiarizarte con su sintaxis y funcionalidades esenciales.
 ##
-- [Exercices](https://github.com/oscarjuly23/Java_Basics/tree/main/Arrays_I)
-- [PracticaExamen](https://github.com/oscarjuly23/Java_Basics/tree/main/Arrays_I)
-- [Exam](https://github.com/oscarjuly23/Java_Basics/tree/main/Arrays_I)
+- [Exercices](https://github.com/oscarjuly23/PHP_Basics/tree/main/Exercices)
+- [MySQL](https://github.com/oscarjuly23/PHP_Basics/tree/main/MySQL)
+- [PracticaExamen](https://github.com/oscarjuly23/Java_Basics/tree/main/practica_examen)
+- [Exam](https://github.com/oscarjuly23/Java_Basics/tree/main/exam.php)
 ##
 Con este repositorio di mis primeros pasos para aprender PHP y desarrollar mis habilidades en la programación web. Viendo como crear sitios web dinámicos, aplicaciones web y explorando el mundo de la programación.
